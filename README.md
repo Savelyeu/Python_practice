@@ -1,2 +1,2 @@
-# Python_practice
+# Python
 Practical exercises and tasks
